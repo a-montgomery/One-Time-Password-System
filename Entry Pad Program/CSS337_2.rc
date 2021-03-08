@@ -1,0 +1,8 @@
+
+
+#include "resource.h"
+#include "afxres.h"
+
+CSS337_2     ICON    DISCARDABLE   "CSS337_2.ico"
+
+#include "CSS337_2.dlg"

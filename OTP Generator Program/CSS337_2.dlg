@@ -1,0 +1,17 @@
+/*---------------------------
+   CSS337_2.DLG dialog script
+  ---------------------------*/
+
+CSS337_2 DIALOG -1, -1, 102, 122    //Window size: -1,-1, width, height 
+STYLE WS_OVERLAPPED | WS_CAPTION | WS_SYSMENU | WS_MINIMIZEBOX
+CLASS "CSS337_2"
+CAPTION "SHA-2" //Program Title banner.
+{//Button List.
+//      button label,     char#, X, Y, width, height
+
+     PUSHBUTTON "Display", 0, 26,   4, 50, 14 //Display
+     
+     PUSHBUTTON "Generate Code",   13, 23,  60, 60, 30
+     
+
+}
